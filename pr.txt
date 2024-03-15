@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is akshay
+=======
+hello buddy
+>>>>>>> refs/remotes/origin/priyanka
